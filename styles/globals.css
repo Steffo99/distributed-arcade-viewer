@@ -1,0 +1,67 @@
+body {
+	background-image: url(/kier-in-sight-s99bwKNke8g-unsplash.jpg);
+	backdrop-filter: hue-rotate(190deg) brightness(40%) contrast(115%);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#__next {
+	min-height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+#host {
+	font-size: small;
+}
+
+#board {
+	font-family: monospace;
+}
+
+.rank {
+	text-align: right;
+	font-family: monospace;
+}
+
+.score {
+	text-align: right;
+	font-family: monospace;
+}
+
+.suffix {
+	opacity: 50%;
+}
+
+.gold {
+	--bhsl-current-hue: 36deg;
+	--bhsl-current-saturation: 100%;
+	--bhsl-current-lightness: 60%;
+
+	background-color: hsla(36deg 100% 60% / 0.1);
+
+	font-size: xx-large;
+}
+
+.silver {
+	--bhsl-current-hue: 205deg;
+	--bhsl-current-saturation: 20%;
+	--bhsl-current-lightness: 83%;
+
+	background-color: hsla(205deg 20% 83% / 0.1);
+
+	font-size: x-large;
+}
+
+.bronze {
+	--bhsl-current-hue: 24deg;
+	--bhsl-current-saturation: 100%;
+	--bhsl-current-lightness: 62%;
+
+	background-color: hsla(24deg 100% 62% / 0.1);
+
+	font-size: large;
+}
