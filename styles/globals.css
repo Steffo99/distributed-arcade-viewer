@@ -1,8 +1,14 @@
 body {
-	background-image: url(/kier-in-sight-s99bwKNke8g-unsplash.jpg);
-	backdrop-filter: hue-rotate(190deg) brightness(40%) contrast(115%);
+	background-image: url(/pineapple-surf.png);
 	background-size: cover;
 	background-attachment: fixed;
+}
+
+footer {
+	border-radius: 4px;
+	padding: 2px 2px 0 2px;
+	background-color: white;
+	color: black;
 }
 
 #__next {
