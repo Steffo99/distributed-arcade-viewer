@@ -104,13 +104,11 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>{board} - Steffo's Arcade Scores</title>
+				<title>{board} - Steffo's Arcade</title>
 			</Head>
-			<main>
-				<article>
-					{content}
-				</article>
-			</main>
+			<article>
+				{content}
+			</article>
 		</>
 	)
 }
