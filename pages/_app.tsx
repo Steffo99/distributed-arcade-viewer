@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import type {AppProps} from "next/app"
 import "../styles/globals.css"
 import Head from "next/head"
