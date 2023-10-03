@@ -1,14 +1,6 @@
 body {
-	background-image: url(/pineapple-surf.png);
 	background-size: cover;
 	background-attachment: fixed;
-}
-
-footer {
-	border-radius: 4px;
-	padding: 2px 2px 0 2px;
-	background-color: white;
-	color: black;
 }
 
 #__next {
@@ -38,7 +30,7 @@ footer {
 	font-family: monospace;
 }
 
-.suffix {
+.suffix, .prefix {
 	opacity: 50%;
 }
 
