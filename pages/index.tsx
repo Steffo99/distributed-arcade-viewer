@@ -21,6 +21,11 @@ const NOTABLE_BOARDS = {
 		title: "Swear Jar",
 		decimals: 2,
 		prefix: "$"
+	},
+	"ld54pj3": {
+		title: "Swear Jar v0.6",
+		decimals: 2,
+		prefix: "$"
 	}
 }
 
