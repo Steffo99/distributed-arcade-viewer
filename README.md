@@ -1,6 +1,12 @@
-# ![](icon.png) Distributed Arcade Viewer
+<div align="center">
 
-Web viewer for scores submitted to Distributed Arcade
+![](.media/icon-128x128_round.png)
+
+# Distributed Arcade Viewer
+
+Web frontend for Distributed Arcade
+
+</div>
 
 ## Links
 
@@ -9,7 +15,3 @@ Web viewer for scores submitted to Distributed Arcade
 ## Related
 
 - [`Steffo99/distributed-arcade`](https://github.com/Steffo99/distributed-arcade), the server where scores displayed with this app are submitted to
-
-## Attribution
-
-See [ATTRIBUTION.txt](ATTRIBUTION.txt).
